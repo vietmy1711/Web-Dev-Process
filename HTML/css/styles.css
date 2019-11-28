@@ -1,0 +1,31 @@
+body {
+    background-color: #f45905;
+}
+
+hr {
+    background-color: transparent;
+    border-style: none;
+    border-bottom-width: 10px;
+    border-bottom-color: #2b273a;
+    border-bottom-style: dotted;
+    height: 0px;
+    width: 10%;
+}
+h1 {
+    color: #2a1a5e;
+}
+h3 {
+    color: #2a1a5e;
+}
+
+.circular {
+    border-radius: 100%;
+}
+.sectionHeading {
+    font-style: oblique;
+}
+
+
+#myName {
+    font-size: 64pt;
+}

@@ -4,18 +4,31 @@
 <head>
     <meta charset="utf-8">
     <title>Nguyen Viet My's Contact</title>
-
+    <link rel="stylesheet" href="css/styles.css">
 </head>
 
 <body>
 
-    <h3>Contact me</h3>
+    <h3 class="sectionHeading">Contact me</h3>
     <ul>
         <li><a href="https://www.facebook.com/VietMy1711">Facebook</a></li>
         <li>Email: zzvietmyzz@gmail.com</li>
         <li><a href="https://www.linkedin.com/in/my-nguyen-593973198/">My LinkedIn</a></li>
     </ul>
+    <hr>
 
+    <form class="" action="mailto:zzvietmyzz@gmail.com" method="POST" enctype="text/plain">
+        <label>Your name: </label>
+        <input type="text" name="yourName">
+        <br>
+        <label>Your email: </label>
+        <input type="email" name="yourEmail">
+        <br>
+        <label>Your messange: </label>
+        <br>
+        <textarea name="yourMessage" id="" cols="30" rows="10"></textarea>
+        <input type="submit">
+    </form>
 </body>
 
 </html>
