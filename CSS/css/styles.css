@@ -1,6 +1,8 @@
 .topContainer {
     background-color: #e4f9f5;
     margin: 0;
+    position: relative;
+    padding-top: 100px;
 }
 
 .middleContainer {
@@ -17,18 +19,41 @@
     margin: 0;
 }
 
-.web{
+.web {
     font-weight: bold;
 }
 
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
 
 p {
+    font-family: 'Merriweather', serif;
     margin-bottom: 0;
 }
 
 h1 {
+    font-family: 'Sacramento', cursive;
     margin-top: 0;
 }
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
 body {
+    text-align: center;
     margin: 0;
 }
