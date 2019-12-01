@@ -1,26 +1,28 @@
-.topContainer {
+.top-container {
     background-color: #e4f9f5;
     margin: 0;
     position: relative;
     padding-top: 100px;
 }
 
-.middleContainer {
-    width: 200px;
-    height: 200px;
-    background-color: red;
-    margin: 0;
+.middle-container {
+    
 }
 
-.bottomContainer {
-    width: 200px;
-    height: 200px;
-    background-color: #e4f9f5;
-    margin: 0;
+.bottom-container {
+   
 }
 
-.web {
-    font-weight: bold;
+.profile-image {
+    width: 200px;
+    border-radius: 100%;
+}
+.UX-UI-Picture{
+    width: 400px;
+}
+
+.pro {
+    text-decoration: underline;
 }
 
 .bottom-cloud {
@@ -35,22 +37,35 @@
     top: 50px;
 }
 
+.programmer {
+    font-weight: normal;
+}
+
 p {
     font-family: 'Merriweather', serif;
     margin-bottom: 0;
 }
 
 h1 {
+    color: #66BFBF;
+    font-size: 5.625rem;
     font-family: 'Sacramento', cursive;
-    margin-top: 0;
+    margin: 50px auto 0 auto;
 }
 
 h2 {
+    color: #66BFBF;
     font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
 }
 
 h3 {
+    color: #11999E;
     font-family: 'Montserrat', sans-serif;
+}
+
+a {
+    color: #11999E;
 }
 
 body {
