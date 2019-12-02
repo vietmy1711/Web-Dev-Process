@@ -6,3 +6,4 @@ Today 26/11/2019, I'm beginning my journey to be a web developer
 29/11/2019: Learn intermediate CSS (display, favicon, divs, model)
 30/11/2019: Learn intermediate CSS day 2 (position, centering, font styling)
 1/12/2019: Learn intermediate CSS day 3 (sizing, font styling)
+2/12/2019: Finish intermediate CSS day 4 (float, clear, challenge)
