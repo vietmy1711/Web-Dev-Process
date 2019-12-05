@@ -9,3 +9,4 @@ Today 26/11/2019, I'm beginning my journey to be a web developer
 2/12/2019: Finish intermediate CSS day 4 (float, clear, challenge)
 3/12/2019: Introduction to Bootstrap (navbar)
 4/12/2019: Learn grid system, container, button, fontawesome, responsive, carousel, in Bootstrap, advanced CSS (Z-index)
+5/12/2019: Learn CSS media query breakpoint
