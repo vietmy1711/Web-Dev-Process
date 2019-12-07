@@ -1,36 +1,3 @@
-#title {
-    text-align: left;
-    background-color: #ff4c68;
-    color: #ffffff;
-}
-
-#features {
-    background-color: #fff;
-    position: relative;
-    z-index: 1;
-}
-
-.feature-box {
-    padding: 4.5%;
-}
-
-.feature-title {
-    font-size: 1.5rem;
-}
-
-.container-fluid {
-    padding: 7% 15%;
-}
-
-.icon {
-    color: #ef8172;
-    margin-bottom: 1rem;
-}
-
-.icon:hover {
-    color: #ff4c68
-}
-
 body {
     font-family: 'Montserrat', sans-serif;
     text-align: center;
@@ -48,6 +15,24 @@ h6 {
 
 p {
     color: #8f8f8f;
+}
+
+
+/* Container */
+
+.container-fluid {
+    padding: 7% 15%;
+}
+
+/* Sections */
+
+.colored-section {
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.white-section {
+    background-color: #fff;
 }
 
 
@@ -103,6 +88,35 @@ p {
     transform: rotate(25deg);
     position: absolute;
     right: 30%;
+    text-align: left;
+}
+
+#title .container-fluid {
+    padding: 3% 15% 7%;
+}
+
+/* Feature */
+
+#features {
+    position: relative;
+    z-index: 1;
+}
+
+.feature-box {
+    padding: 4.5%;
+}
+
+.feature-title {
+    font-size: 1.5rem;
+}
+
+.icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: #ff4c68
 }
 
 
@@ -110,7 +124,6 @@ p {
 
 #testimonials {
     background-color: #ef8172;
-    color: #fff;
 }
 
 .testimonial-text {
@@ -154,8 +167,7 @@ p {
 /* Call to action */
 
 #cta {
-    color: #fff;
-    background-color: #ff4c68;
+
 }
 
 
