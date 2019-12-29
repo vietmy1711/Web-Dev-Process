@@ -13,3 +13,4 @@ Today 26/11/2019, I'm beginning my journey to be a web developer
 6/12/2019: Code refactoring
 7/12/2019: Finish Bootstrap, Tindog
 8/12/2019: Learn Document Object Manipulation, Add JavaScript
+27/12/2019: I'm back after my final projects but I haven't take the final tests yet
