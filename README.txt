@@ -14,4 +14,4 @@ Today 26/11/2019, I'm beginning my journey to be a web developer
 7/12/2019: Finish Bootstrap, Tindog
 8/12/2019: Learn Document Object Manipulation, Add JavaScript
 27/12/2019: I'm back after my final projects but I haven't take the final tests yet
-31/12/2019: Add Event Listener, learn about callback functions, animation
+31/12/2019: Add Event Listener, learn about callback functions, animation, jQuery
