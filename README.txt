@@ -1,5 +1,5 @@
 Today 26/11/2019, I'm beginning my journey to be a web developer
-
+Front-End
 26/11/2019: Some basic HTML tag, (p, h1->h6, img, html, list, body, head, title)
 27/11/2019: Learn about table in HTML (table,tr,td,thead,tfoot)
 28/11/2019: Learn about form, input in HTML and CSS fundamentals
@@ -15,3 +15,5 @@ Today 26/11/2019, I'm beginning my journey to be a web developer
 8/12/2019: Learn Document Object Manipulation, Add JavaScript
 27/12/2019: I'm back after my final projects but I haven't take the final tests yet
 31/12/2019: Add Event Listener, learn about callback functions, animation
+Back-End
+1/1/2020: Unix Command Line, NodeJS, external package, ExpressJS
