@@ -17,3 +17,4 @@ Front-End
 31/12/2019: Add Event Listener, learn about callback functions, animation, jQuery
 Back-End
 1/1/2020: Unix Command Line, NodeJS, external package, ExpressJS
+2/1/2020: Learn GIT, which I have already known
