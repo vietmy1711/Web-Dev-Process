@@ -19,3 +19,4 @@ Back-End
 1/1/2020: Unix Command Line, NodeJS, external package, ExpressJS
 2/1/2020: Learn GIT, which I have already known
 3/1/2020: Learn API
+4/1/2020: Get Data from API, JSON format
