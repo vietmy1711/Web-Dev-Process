@@ -20,3 +20,5 @@ Back-End
 2/1/2020: Learn GIT, which I have already known
 3/1/2020: Learn API
 4/1/2020: Get Data from API, JSON format
+5/1/2020: Learn EJS Template, run code inside EJS, passing data to server
+6/1/2020: Learn scope, var, let, const
