@@ -22,3 +22,4 @@ Back-End
 4/1/2020: Get Data from API, JSON format
 5/1/2020: Learn EJS Template, run code inside EJS, passing data to server
 6/1/2020: Learn scope, var, let, const
+7/1/2020: Finish To Do List
