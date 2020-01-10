@@ -23,3 +23,6 @@ Back-End
 5/1/2020: Learn EJS Template, run code inside EJS, passing data to server
 6/1/2020: Learn scope, var, let, const
 7/1/2020: Finish To Do List, learn  EJS Layout, module exports
+8/1/2020: Start Blog project
+9/1/2020: Finish Blog project
+10/1/2020: SQL vs NoSQL Database, learn SQL
