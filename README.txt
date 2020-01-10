@@ -25,3 +25,4 @@ Back-End
 7/1/2020: Finish To Do List
 8/1/2020: Start Blog project
 9/1/2020: Finish Blog project
+10/1/2020: SQL vs NoSQL Database, learn SQL
