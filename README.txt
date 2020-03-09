@@ -27,3 +27,4 @@ Back-End
 9/1/2020: Finish Blog project
 10/1/2020: SQL vs NoSQL Database, learn SQL
 11/1/2020: Learn MongoDB
+10/3/2020: Mongoose
